@@ -1,0 +1,21 @@
+h1{
+  font-size: 5em;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.pagination{
+  text-align: center;
+}
+.pagination a{
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 15px;
+  font-size: 3em;
+}
